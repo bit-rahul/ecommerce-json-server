@@ -1,0 +1,12 @@
+{
+  "products": [{
+    "id": 1,
+    "sku": 36546327821,
+    "title": "Samsung M51",
+    "price": 24999,
+    "description": "",
+    "rating": 4.5,
+    "image": "",
+    "imageCollection": [""]
+  }]
+}
