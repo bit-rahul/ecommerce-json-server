@@ -3,7 +3,8 @@
     {
       "id": 1,
       "sku": 36546327821,
-      "title": "Samsung M51",
+      "title": "M51",
+      "brand": "Samsung",
       "price": 24999,
       "description": "",
       "rating": 4.5,
@@ -15,7 +16,8 @@
     {
       "id": 2,
       "sku": 36554278217,
-      "title": "Samsung M31s",
+      "title": "M31s",
+      "brand": "Samsung",
       "price": 19499,
       "description": "",
       "rating": 4.5,
